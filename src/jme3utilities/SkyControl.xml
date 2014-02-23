@@ -10,8 +10,8 @@ and open the template in the editor.
     <localizing-bundle>jme3utilities.Bundle</localizing-bundle>
     <volume>
         <type>classpath</type>
-        <resource>jar:nbinst://jme3utilities/libs/jME3-utilities.jar!/</resource>
-        <resource>jar:nbinst://jme3utilities/libs/jME3-utilities-assets.jar!/</resource>
+        <resource>jar:nbinst://jme3utilities/libs/SkyControl.jar!/</resource>
+        <resource>jar:nbinst://jme3utilities/libs/SkyControl-assets.jar!/</resource>
     </volume>
     <volume>
         <type>src</type>

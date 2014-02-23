@@ -4,6 +4,7 @@
     <folder name="org-netbeans-api-project-libraries">
         <folder name="Libraries">
             <file name="SkyControl.xml" url="SkyControl.xml"/>
+            <file name="jme3-utilities-ui.xml" url="jme3-utilities-ui.xml"/>
         </folder>
     </folder>
 </filesystem>

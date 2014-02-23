@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE library PUBLIC "-//NetBeans//DTD Library Declaration 1.0//EN" "http://www.netbeans.org/dtds/library-declaration-1_0.dtd">
+<library version="1.0">
+    <name>jme3-utilities-ui</name>
+    <type>j2se</type>
+    <localizing-bundle>jme3utilities.Bundle</localizing-bundle>
+    <volume>
+        <type>classpath</type>
+        <resource>jar:nbinst://jme3utilities/libs/jME3-utilities-ui.jar!/</resource>
+        <resource>jar:nbinst://jme3utilities/libs/jME3-utilities-ui-assets.jar!/</resource>
+    </volume>
+    <volume>
+        <type>src</type>
+        <resource>jar:nbinst://jme3utilities/sources/jME3-utilities-ui-src.zip!/</resource>
+    </volume>
+    <volume>
+        <type>javadoc</type>
+        <resource>jar:nbinst://jme3utilities/docs/jME3-utilities-ui-javadoc.zip!/</resource>
+    </volume>
+</library>
