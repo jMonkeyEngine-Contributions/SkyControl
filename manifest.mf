@@ -3,4 +3,5 @@ OpenIDE-Module: jme3utilities/0
 OpenIDE-Module-Implementation-Version: 0
 OpenIDE-Module-Layer: jme3utilities/layer.xml
 OpenIDE-Module-Localizing-Bundle: jme3utilities/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
 

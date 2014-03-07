@@ -15,10 +15,10 @@ and open the template in the editor.
     </volume>
     <volume>
         <type>src</type>
-        <resource>jar:nbinst://jme3utilities/sources/jME3-utilities-ui-src.zip!/</resource>
+        <resource>jar:nbinst://jme3utilities/sources/jme3-utilities-ui-jME3-utilities-ui-src.zip!/</resource>
     </volume>
     <volume>
         <type>javadoc</type>
-        <resource>jar:nbinst://jme3utilities/docs/jME3-utilities-ui-javadoc.zip!/</resource>
+        <resource>jar:nbinst://jme3utilities/docs/jme3-utilities-ui-jME3-utilities-ui-javadoc.zip!/</resource>
     </volume>
 </library>

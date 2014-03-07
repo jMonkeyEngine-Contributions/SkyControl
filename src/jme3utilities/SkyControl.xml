@@ -15,10 +15,10 @@ and open the template in the editor.
     </volume>
     <volume>
         <type>src</type>
-        <resource>jar:nbinst://jme3utilities/sources/SkyControl-src.zip!/</resource>
+        <resource>jar:nbinst://jme3utilities/sources/SkyControl-SkyControl-src.zip!/</resource>
     </volume>
     <volume>
         <type>javadoc</type>
-        <resource>jar:nbinst://jme3utilities/docs/SkyControl-javadoc.zip!/</resource>
+        <resource>jar:nbinst://jme3utilities/docs/SkyControl-SkyControl-javadoc.zip!/</resource>
     </volume>
 </library>
